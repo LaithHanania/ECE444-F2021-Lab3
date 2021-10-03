@@ -7,7 +7,7 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways <br />
 
 
 # Activity 2
-![Activity 2](https://user-images.githubusercontent.com/50575615/135761634-d99575ce-a316-47da-a731-ace5de6455f3.png)
+<img width="1662" alt="Screen Shot 2021-10-03 at 11 53 03 AM" src="https://user-images.githubusercontent.com/50575615/135761731-8034ab65-6ca2-4bc0-9507-23361866c27e.png">
 
 
 # Activity 3

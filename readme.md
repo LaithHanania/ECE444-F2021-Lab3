@@ -1,3 +1,5 @@
+Name: Laith Hanania <br />
+This repo is a clone of https://github.com/nelaturuk/education_pathways <br />
 # CARTE Education Pathways
 
 ## Description
